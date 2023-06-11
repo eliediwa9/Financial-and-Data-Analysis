@@ -10,4 +10,4 @@ Ultimately, I as a financial manager should decided which project to take on bas
 
 
 ##HasNameCo
-HasName Co would like to budget its sales and production costs for the next six months in order to meet the management target sales. The objectif is to forecast sales and thereby analyzed how it will impact the production and overall costs for each product.
+HasNameco would like to budget its sales and production costs for the next six months in order to meet the management target sales. The objectif is to forecast sales and thereby analyzed how it will impact the production and overall costs for each product.
