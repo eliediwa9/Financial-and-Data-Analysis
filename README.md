@@ -1,7 +1,7 @@
 # Financial-Planning-and-Analysis
 
 ## For new users:
-To open a file, you must first click on it. Then in the window, click view raw or downnload new file.
+To open a file, you must first click on it. Then in the window, click view raw or downnload raw file.
 
 ## NonameCo
 In this model, I examine the case of Noname co, an apparel retail company. 
