@@ -20,7 +20,7 @@ My task as a financial controller is to analyze how the increase in sales will e
 ## XYZ firm financial data analysis$ (Beware: this file is heavy and contains +500k rows) https://github.com/eliediwa9/Financial-Planning-and-Analysis/blob/main/XYZ%20Financial%20data%20analysis.xlsx
 This case is about analyze the performance of XYZ firm which has more than 10 lines of product and is presented in multiple country. The management of XYZ firm is interested to know the financial performance of their products sold in several countries. More specifically, the management would like to know how profitable each line of product is and how the rentability is in each month and each country. They also want to compare current year performance to last year and seek to uncover trends.	Check out to how I modelled this business case and came up with a solution for XYZ. Questions regarding this case are welcomed.
 
-## Credit analysis: Exploratory data analysis Part 1 
+## Credit analysis: Exploratory data analysis Part 1 https://github.com/eliediwa9/Financial-Planning-and-Analysis/blob/main/Exploratory%20Data%20Analysis%20with%20Python%20Part1.pdf
 This case is about analyzing the credit profile of a pool of customers that applied for a bank loan. The management of the bank asked me as their credit (data) analyst to review the risk profile of loan applicants and come up with a model that they can use later on to decide on whether to give a loan or not. 
 
 In part 1, I start with familiarizing myself with the data by exploring and uncovering trends and relationships that exist among them. Check out to what I found during my exploration of the data. Questions regarding this case are welcomed.
