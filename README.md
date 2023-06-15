@@ -4,7 +4,7 @@
 To open a file, you must first click on it. Then in the window, click view raw or downnload raw file.
 Then use the password proivded to you and click on read-only
 
-## NonameCo FPA
+## NonameCo FPA (https://github.com/eliediwa9/Financial-Planning-and-Analysis/NoNameCo%20FPA%20&%20valuation.xlsx)
 In this model, I examine the case of Noname co, an apparel retail company. 
 Noname Co was asked to improve its solvence and interest coverage ratio in order for its bank to extend the credit line. The bank requires a leverage ratio lower than 55% and an equity multiplier of less than 2.7. 
 
