@@ -4,7 +4,7 @@
 To open a file, you must first click on it. Then in the window, click view raw or downnload raw file.
 Then use the password proivded to you and click on read-only
 
-## NonameCo FPA [(https://github.com/eliediwa9/Financial-Planning-and-Analysis/blob/main/NoNameCo%20FPA%20%26%20valuation.xlsx))](https://github.com/eliediwa9/Financial-Planning-and-Analysis/blob/main/NoNameCo%20FPA%20%26%20valuation.xlsx)
+## NonameCo FPA (https://github.com/eliediwa9/Financial-Planning-and-Analysis/blob/main/NoNameCo%20FPA%20%26%20valuation.xlsx)
 In this model, I examine the case of Noname co, an apparel retail company. 
 Noname Co was asked to improve its solvence and interest coverage ratio in order for its bank to extend the credit line. The bank requires a leverage ratio lower than 55% and an equity multiplier of less than 2.7. 
 
@@ -16,7 +16,7 @@ Ultimately, I as a financial manager should decided which project to take on bas
 ## HasNameCo Master Plan https://github.com/eliediwa9/Financial-Planning-and-Analysis/blob/main/HasNameCo%20Master-Plan.xlsx
 HasNameco would like to budget its sales and production costs for the next six months in order to meet the management target sales. The objectif is to forecast sales and thereby analyzed how it will impact the production and overall costs for each product.
 
-## XYZ firm financial data analysis$ (Beware: this file is heavy and contains +500k rows)
+## XYZ firm financial data analysis$ (Beware: this file is heavy and contains +500k rows) https://github.com/eliediwa9/Financial-Planning-and-Analysis/blob/main/XYZ%20Financial%20data%20analysis.xlsx
 The management of XYZ firm is interested to know the financial performance of their products sold in several countries.										
 More specifically, the management would like to know how many items  were sold in 2012 compared to the previous year for each country and each product										
 Furthermore, they are interested in the analysis of the profitability of each product such as sale margin per product line, month and country, and seek to uncover trends.										
