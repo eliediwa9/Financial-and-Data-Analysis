@@ -13,7 +13,7 @@ Hence, the objecif is analyze three investment opportunities which might help No
 Ultimately, I as a financial manager should decided which project to take on based on two main criteria: (1) the project should help Noname co meet the bank requirement and (2) the project should protect the interest of existing shareholders.
 
 
-## HasNameCo Master Plan
+## HasNameCo Master Plan https://github.com/eliediwa9/Financial-Planning-and-Analysis/blob/main/HasNameCo%20Master-Plan.xlsx
 HasNameco would like to budget its sales and production costs for the next six months in order to meet the management target sales. The objectif is to forecast sales and thereby analyzed how it will impact the production and overall costs for each product.
 
 ## XYZ firm financial data analysis$ (Beware: this file is heavy and contains +500k rows)
