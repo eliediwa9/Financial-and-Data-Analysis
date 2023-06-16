@@ -1,11 +1,11 @@
-# Financial-Planning-and-Analysis
+# Financial and Data Analysis
 
 ## For recruiters:
 Welcome. Thank you for visiting my page. Here, I try to showcase the works I have done before be it within a firm, as a school or a free-lance projects. If you like what you see do not hesitate to get in touch with me.
 
-After you have read the description of the projects below, select the one(s) you would like to see and click on the link next to the title. In the prompted page, click on view raw or on downnload raw file. If you are asked to insert a password, use the password proivded to you in the cover letter and then click on read-only. Thank you!
+After you have read the description of the projects below, select the one(s) you would like to see and click on the link next to the title. In the prompted page, click on view raw or on downnload raw file. If you are asked to insert a password, __use the password proivded to you in the cover letter__ and then click on read-only. Thank you!
 
-## NonameCo FPA (https://github.com/eliediwa9/Financial-Planning-and-Analysis/blob/main/NoNameCo%20FPA%20%26%20valuation.xlsx)
+## NonameCo FPA https://github.com/eliediwa9/Financial-Planning-and-Analysis/blob/main/NoNameCo%20FPA%20%26%20valuation.xlsx
 This model is about solving the case of a company, here referred as Noname co, who is facing difficulties to extend its credit line. The bank requires the firm to lower its leverage and times earned ratio by next year or otherwise it will not extend its credit. A simple optimization of the firm's operations will not suffice to meet the bank requirements. Hence, Noname is considering three alternatives:(1) Investment in a TV show porgram that will increase sales, (2) Sell additional shares to an Investment Bank or (3) Acquire Target co. 
 
 As a financial manager, my task is to analyze these investments options and decided which project to take  based on two main criteria: (1) the project should help Noname co meet the bank requirement and (2) the project should protect the interest of existing shareholders. Check out to how I modelled this business case and came up with a solution for Nonameco. Questions regarding this case are welcomed.
