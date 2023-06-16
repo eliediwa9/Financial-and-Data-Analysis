@@ -1,4 +1,4 @@
-# Financial-Planning-and-Analysis
+# Financial and Data Analysis
 
 ## For recruiters:
 Welcome. Thank you for visiting my page. Here, I try to showcase the works I have done before be it within a firm, as a school or a free-lance projects. If you like what you see do not hesitate to get in touch with me.
