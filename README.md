@@ -25,4 +25,9 @@ This case is about analyzing the credit profile of a pool of customers that appl
 
 In part 1, I start with familiarizing myself with the data by exploring and uncovering trends and relationships that exist among them. Check out to what I found during my exploration of the data. Questions regarding this case are welcomed.
 
-## Credit analysis : Part 2. Modelling (Not yet available)
+## Credit analysis : Part 2. Testing for the difference (Coming soon)
+
+## Credit analysis : Part 3. Modelling (Coming soon)
+
+## Probability Distribution and Mean Testing (https://github.com/eliediwa9/Financial-and-Data-Analysis/blob/main/Probability%20Distribution%20and%20Statistical%20Testing%20.pdf)
+In this article, I explain the concepts of probability distribution and statistical testing for the mean of the population in very simple terms. In the process, I introduce terminologies such as mean, variance, standard deviation, standard errors, distribution, probability, sampling distribution of sample means, central limit theorem, Z test among others in a story-like manner to help readers connect the dots between them. Read about the content of this article to get a sense of my knowledge of statistical concepts and my communication & presentation skills.
