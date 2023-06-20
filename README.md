@@ -25,7 +25,8 @@ This case is about analyzing the credit profile of a pool of customers that appl
 
 In part 1, I start with familiarizing myself with the data by exploring and uncovering trends and relationships that exist among them. Check out to what I found during my exploration of the data. Questions regarding this case are welcomed.
 
-## Credit analysis : Part 2. Testing for the difference (Coming soon)
+## Credit analysis : Part 2. Testing for the difference https://github.com/eliediwa9/Financial-and-Data-Analysis/blob/main/Credit%20Analysis%20Part%202.pdf
+In Part 2, I seek evidence for the differences observed through visualization in Part 1. Using statistical tests such as two sample Z test, annova, chi-square among others. This further paves our way to the construction of a prediction models.
 
 ## Credit analysis : Part 3. Modelling (Coming soon)
 
