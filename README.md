@@ -5,13 +5,13 @@ Welcome. Thank you for visiting my page. Here, I try to showcase the works I hav
 
 After you have read the description of the projects below, select the one(s) you would like to see and click on the link next to the title. In the prompted page, click on view raw or on downnload raw file. If you are asked to insert a password (PW file), __use the password proivded to you in the cover letter__ and then click on read-only. Thank you!
 
-## NonameCo FPA(PW) https://github.com/eliediwa9/Financial-Planning-and-Analysis/blob/main/NoNameCo%20FPA%20%26%20valuation.xlsx
+## NonameCo FPA & VALUATION (PW) https://github.com/eliediwa9/Financial-Planning-and-Analysis/blob/main/NoNameCo%20FPA%20%26%20valuation.xlsx
 This model is about solving the case of a company, here referred as Noname co, who is facing difficulties to extend its credit line. The bank requires the firm to lower its leverage and times earned ratio by next year or otherwise it will not extend its credit. A simple optimization of the firm's operations will not suffice to meet the bank requirements. Hence, Noname is considering three alternatives:(1) Investment in a TV show porgram that will increase sales, (2) Sell additional shares to an Investment Bank or (3) Acquire Target co. 
 
 As a financial manager, my task is to analyze these investments options and decided which project to take  based on two main criteria: (1) the project should help Noname co meet the bank requirement and (2) the project should protect the interest of existing shareholders. Check out to how I modelled this business case and came up with a solution for Nonameco. Questions regarding this case are welcomed.
 
 
-## HasNameCo Master Plan(PW) https://github.com/eliediwa9/Financial-Planning-and-Analysis/blob/main/HasNameCo%20Master-Plan.xlsx
+## HasNameCo MASTER BUDGET(PW) https://github.com/eliediwa9/Financial-Planning-and-Analysis/blob/main/HasNameCo%20Master-Plan.xlsx
 This case is about a firm, here referred to as Hasname co, who would like to budget its sale and operating expenses for the next six months. The management assumes that sales will growth at a constant rate of 5% from the second month and forward starting at the current month figure.
 
 My task as a financial controller is to analyze how the increase in sales will expact the company costs and examnine the rentability of the firm two lines of product. Check out to how I modelled this business case and came up with a solution for Hasnameco. Questions regarding this case are welcomed.
@@ -28,7 +28,9 @@ In part 1, I start with familiarizing myself with the data by exploring and unco
 ## Credit analysis : Part 2. Testing for the difference https://github.com/eliediwa9/Financial-and-Data-Analysis/blob/main/Credit%20Analysis%20Part%202.pdf
 In Part 2, I seek evidence for the differences observed through visualization in Part 1. Using statistical tests such as two sample Z test, annova, chi-square among others. This further paves our way to the construction of a prediction models.
 
-## Credit analysis : Part 3. Modelling (Coming soon)
+## Credit analysis : Part 3. Modelling 
+(Coming soon)
+
 
 ## Probability Distribution and Mean Testing (https://github.com/eliediwa9/Financial-and-Data-Analysis/blob/main/Probability%20Distribution%20and%20Statistical%20Testing%20.pdf)
 In this article, I explain the concepts of probability distribution and statistical testing for the mean of the population in very simple terms. In the process, I introduce terminologies such as mean, variance, standard deviation, standard errors, distribution, probability, sampling distribution of sample means, central limit theorem, Z test among others in a story-like manner to help readers connect the dots between them. Read about the content of this article to get a sense of my knowledge of statistical concepts and my communication & presentation skills.
