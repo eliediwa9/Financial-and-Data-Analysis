@@ -30,7 +30,7 @@ This case is about analyzing the credit profile of a pool of customers that appl
 ## [Credit analysis : Part 2. Testing for the difference (pdf)](https://github.com/eliediwa9/Financial-and-Data-Analysis/blob/main/Credit%20Analysis%20Part%202.pdf)
 In Part 2, I seek evidence for the differences observed through visualization in Part 1. Using statistical tests such as two sample Z test, annova, chi-square among others. This further paves our way to the construction of a prediction models.
 
-## [Credit analysis : Part 3. Modelling](https://github.com/eliediwa9/Financial-and-Data-Analysis/blob/main/Credit%20Analysis%20Part%203.pdf)
+## [Credit analysis : Part 3. Modelling (pdf)](https://github.com/eliediwa9/Financial-and-Data-Analysis/blob/main/Credit%20Analysis%20Part%203.pdf)
 In Part 3, we attempt to buit a first credit risk model using logistic regression. We find that property value, loan amount and loan term are consistently significant in all models obtained from backward elimination. This suggests that these variables better explain the change in default likelihood among our customers than any other variable. Nonetheless, the model has a relatively low accuracy rate of about 80%. 
 
 
