@@ -3,9 +3,7 @@
 ## For recruiters:
 Welcome to my page. Here, I showcase my analytical skills and technical aptitudes in Excel, R and Python. You will find a range of projects ranging from finance to data analysis. Each project is briefly describe below to help you choose the project of interest.
 
-If you are new to Github, I acknowledge that it can be quite difficult to find your way around. Hence, after you choose a project, click on the title and you'll be directed to a new page. Depending on the format (pdf,excel), you will
-
-After you have read the description of the projects below, select the one(s) you would like to see and click on the link next to the title. In the prompted page, click on view raw or on downnload raw file. 
+If you are new to Github, I acknowledge that it can be quite difficult to find your way around. Hence, after you choose a project, click on the title and you'll be directed to a new page. If the file is in xls(x) format, click on view raw in the prompted page or on downnload raw file. If the file is in pdf, Github will display the first 5 pages and you can choose to extend 
 
 **Important: You no longer need a password to open an excel file. You can open the file and click on read-only.**
 **For security purpose, I do no share the password to edit the file. Thanks for your understanding.**
