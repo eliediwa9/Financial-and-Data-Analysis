@@ -20,8 +20,10 @@ This case is about a firm, here referred to as Hasname co, who would like to bud
 ## [XYZ firm financial data analysis (xlsx)](https://github.com/eliediwa9/Financial-Planning-and-Analysis/blob/main/XYZ%20Financial%20data%20analysis.xlsx)
 This case is about analyze the performance of XYZ firm which has about 10 lines of product and is presented in multiple country. The management of XYZ firm is interested to know the financial performance of their products sold in several countries. More specifically, the management would like to know how profitable each line of product is and how the rentability is in each month and each country. They also want to compare current year performance to last year and seek to uncover trends.	
 
-## [Portfolio optimization (pdf)](https://github.com/eliediwa9/Financial-and-Data-Analysis/blob/main/Markowitz%20Portfolio%20Optimization.pdf)
-I worked on this project towards the end of my bachelor degree. It's an investment analysis of a set of stocks (portfolio) in which I seek to find the optimal combination that would lead to the highest return with the lowest volatility. 
+## [Security and Portfolio Performance Analysis (pdf)](https://github.com/eliediwa9/Financial-and-Data-Analysis/blob/main/Security%20and%20Portfolio%20Performance%20Analysis%20.pdf)
+The objective of this article is to present essential concepts in security analysis and portfolio selection. We have conducted an analysis of two investment portfolios: one consisting of technology firms and the other composed of health firms. By applying the Markowitz optimization model, we have identified the optimal portfolio for each category. Additionally, we have addressed the challenges associated with comparing portfolios using historical and expected returns, and have introduced more robust measures for portfolio evaluation and selection.
+
+## [Analyse de la Performance des Titres et des Portefeuilles]()
 
 ## [Credit analysis: Part 1. Exploratory data analysis (pdf)](https://github.com/eliediwa9/Financial-and-Data-Analysis/blob/main/Credit%20Analysis%20Part%201.pdf)
 This case is about analyzing the credit profile of a pool of customers that applied for a bank loan. The management of the bank asked me as their credit (data) analyst to review the risk profile of loan applicants and come up with a model that they can use later on to decide on whether to give a loan or not. In part 1, I start with familiarizing myself with the data by exploring and uncovering trends and relationships that exist among them.
