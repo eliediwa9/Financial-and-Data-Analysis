@@ -8,17 +8,15 @@ If you are new to Github, I acknowledge that it can be quite difficult to find y
 **For security purpose, I do no share the password to edit the file. Thanks for your understanding.**
 
 ## [NonameCo FPA & VALUATION (xlsx)]( https://github.com/eliediwa9/Financial-Planning-and-Analysis/blob/main/NoNameCo%20FPA%20%26%20valuation.xlsx)
-This model is about solving the case of a company, here referred as Noname co, who is facing difficulties to extend its credit line. The bank requires the firm to lower its leverage and times earned ratio by next year or otherwise it will not extend its credit. A simple optimization of the firm's operations will not suffice to meet the bank requirements. Hence, Noname is considering three alternatives:(1) Investment in a TV show porgram that will increase sales, (2) Sell additional shares to an Investment Bank or (3) Acquire Target co. 
-
-As a financial manager, my task is to analyze these investments options and decided which project to take  based on two main criteria: (1) the project should help Noname co meet the bank requirement and (2) the project should protect the interest of existing shareholders. Check out to how I modelled this business case and came up with a solution for Nonameco. Questions regarding this case are welcomed.
+Fanancial planning and analysis, including project analysis and acquisition valuation, for Noname co which is facing difficulties to extend its credit line. The bank requires the firm to lower its leverage and times earned ratio by year 2012 or otherwise it will not extend its credit. Hence, Noname is considering three alternatives:(1) Investment in a TV show porgram that will increase sales, (2) Sell additional shares to an Investment Bank or (3) Acquire Target co. 
 
 
 ## [HasNameCo MASTER BUDGET(xlsx)](https://github.com/eliediwa9/Financial-Planning-and-Analysis/blob/main/HasNameCo%20Master-Plan.xlsx)
-This case is about a firm, here referred to as Hasname co, who would like to budget its sale and operating expenses for the next six months. The management assumes that sales will growth at a constant rate of 5% from the second month and forward starting at the current month figure. My task as a financial controller is to analyze how the increase in sales will expact the company costs and examnine the rentability of the firm two lines of product. 
+Operational budgeting, including master plan, for Hasname co, who would like to budget its operations for the next six months. As a financial controller, my goal is to contruct a complete master plan and examine the implication of sales growth on opex and capex.
 
 
 ## [XYZ firm financial data analysis (xlsx)](https://github.com/eliediwa9/Financial-Planning-and-Analysis/blob/main/XYZ%20Financial%20data%20analysis.xlsx)
-This case is about analyze the performance of XYZ firm which has about 10 lines of product and is presented in multiple country. The management of XYZ firm is interested to know the financial performance of their products sold in several countries. More specifically, the management would like to know how profitable each line of product is and how the rentability is in each month and each country. They also want to compare current year performance to last year and seek to uncover trends.	
+Business Analysis for XYZ firm which has about 10 lines of product and is presented in multiple country. The management would like to know how profitable each line of product is in each country, month or year. 
 
 ## [Security and Portfolio Performance Analysis (pdf)](https://github.com/eliediwa9/Financial-and-Data-Analysis/blob/main/Security%20and%20Portfolio%20Performance%20Analysis%20.pdf)
 The objective of this article is to present essential concepts in security analysis and portfolio selection. We have conducted an analysis of two investment portfolios: one consisting of technology firms and the other composed of health firms. By applying the Markowitz optimization model, we have identified the optimal portfolio for each category. Additionally, we have addressed the challenges associated with comparing portfolios using historical and expected returns, and have introduced more robust measures for portfolio evaluation and selection.
@@ -34,7 +32,6 @@ In Part 2, I seek evidence for the differences observed through visualization in
 
 ## [Credit analysis : Part 3. Modelling (pdf)](https://github.com/eliediwa9/Financial-and-Data-Analysis/blob/main/Credit%20Analysis%20Part%203.pdf)
 In Part 3, we attempt to buit a first credit risk model using logistic regression. We find that property value, loan amount and loan term are consistently significant in all models obtained from backward elimination. This suggests that these variables better explain the change in default likelihood among our customers than any other variable. Nonetheless, the model has a relatively low accuracy rate of about 80%. 
-
 
 ## [Probability Distribution and Mean Testing (pdf)](https://github.com/eliediwa9/Financial-and-Data-Analysis/blob/main/Probability%20Distribution%20and%20Statistical%20Testing%20.pdf)
 In this article, I explain the concepts of probability distribution and statistical testing for the mean of the population in very simple terms. In the process, I introduce terminologies such as mean, variance, standard deviation, standard errors, distribution, probability, sampling distribution of sample means, central limit theorem, Z test among others in a story-like manner to help readers connect the dots between them. 
