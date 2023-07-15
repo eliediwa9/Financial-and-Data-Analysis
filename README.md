@@ -1,11 +1,11 @@
 # Financial and Data Analysis
 
-Welcome to my page. Here, I showcase my analytical skills and technical aptitudes in Excel, R and Python. You will find a range of projects ranging from finance to data analysis. Each project is briefly describe below to help you choose the project of interest.
+Welcome! On this page, I showcase my knowledge and analytical skills using tools such as Excel, R and Python. You will find a range of projects ranging from finance to data analysis. A brief description is provided for each project below to help you decide. I regularly publish new projects or improve existing ones to demonstrate my mastery of knowledges & concepts pertaining to finance, accounting and data analysis. I believe that this not only improve transparency during the recruitment process but also shows that I am an autonomous, proactive, result-oriented and determined individual who consistently seeks self-improvement and growth. 
 
-If you are new to Github, I acknowledge that it can be quite difficult to find your way around. Hence, after you choose a project, click on the title and you'll be directed to a new page. If the file is in xls(x) format, click on view raw in the prompted page or on downnload raw file. If the file is in pdf, Github will display the first 5 pages and you can click on "more pages" to read more. 
-
+### How to use
+Click on the title of the project you selected and you will be directed to a new page. If the file is in xls(x) format, click on view raw in the prompted page or on downnload raw file to open. If the file is in pdf, Github will display it directly.
 **Important: Excel file will ask you to enter a PW but please ignore it and click on read-only.**
-**For security purpose, I do no share the password to edit the file. Thanks for your understanding.**
+
 
 ## [NonameCo FPA & VALUATION (xlsx)]( https://github.com/eliediwa9/Financial-Planning-and-Analysis/blob/main/NoNameCo%20FPA%20%26%20valuation.xlsx)
 Fanancial planning and analysis, including project analysis and acquisition valuation, for Noname co which is facing difficulties to extend its credit line. The bank requires the firm to lower its leverage and times earned ratio by year 2012 or otherwise it will not extend its credit. Hence, Noname is considering three alternatives:(1) Investment in a TV show porgram that will increase sales, (2) Sell additional shares to an Investment Bank or (3) Acquire Target co. 
