@@ -49,6 +49,6 @@ Click on the title of the project you selected and you will be directed to a new
 
 
 ## [Probability Distribution and Mean Testing (pdf)](https://github.com/eliediwa9/Financial-and-Data-Analysis/blob/main/Probability%20Distribution%20and%20Statistical%20Testing%20.pdf)
-- Briefings: free- style article explaining fundamental statisitical concepts like probability distribtuion and test for difference in means.
+- Briefings: free-style article explaining fundamental statisitical concepts like probability distribtuion and test for difference in means.
 - Key skills: statistics, data analysis
 
