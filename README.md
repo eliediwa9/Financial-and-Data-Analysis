@@ -8,15 +8,15 @@ Click on the title of the project you selected and you will be directed to a new
 
 
 ## [NonameCo FPA & VALUATION (xlsx)]( https://github.com/eliediwa9/Financial-Planning-and-Analysis/blob/main/NoNameCo%20FPA%20%26%20valuation.xlsx)
-Fanancial planning and analysis, including project analysis and acquisition valuation, for Noname co which is facing difficulties to extend its credit line. The bank requires the firm to lower its leverage and times earned ratio by year 2012 or otherwise it will not extend its credit. Hence, Noname is considering three alternatives:(1) Investment in a TV show porgram that will increase sales, (2) Sell additional shares to an Investment Bank or (3) Acquire Target co. 
+Fanancial planning and analysis, including investment analysis and valuation. Noname co is facing difficulties to extend its credit line. The bank requires the firm to lower its leverage and times earned ratio by year 2012 or otherwise it will not extend its credit. Hence, Noname is considering three alternatives:(1) Investment in a TV show porgram that will increase sales, (2) Sell additional shares to an Investment Bank or (3) Acquire Target co. 
 
 
 ## [HasNameCo MASTER BUDGET(xlsx)](https://github.com/eliediwa9/Financial-Planning-and-Analysis/blob/main/HasNameCo%20Master-Plan.xlsx)
-Operational budgeting, including master plan, for Hasname co, who would like to budget its operations for the next six months. As a financial controller, my goal is to contruct a complete master plan and examine the implication of sales growth on opex and capex.
+Operational budgeting (master budget) of Hasname co activities. The firm would like to budget its operations for the next six months. As a financial controller, my goal is to construct a complete master budget to help the top management make informed decisions.
 
 
 ## [XYZ firm financial data analysis (xlsx)](https://github.com/eliediwa9/Financial-Planning-and-Analysis/blob/main/XYZ%20Financial%20data%20analysis.xlsx)
-Business Analysis for XYZ firm which has about 10 lines of product and is presented in multiple country. The management would like to know how profitable each line of product is in each country, month or year. 
+Business Analysis for XYZ firm which has about 10 lines of product and is present in multiple country. The management would like to know how profitable each line of product is in each country, each month and each year. Hence, my task is to break down product performance into several subgroups to be able to answer these strategic questions.
 
 ## [Security and Portfolio Performance Analysis (pdf)](https://github.com/eliediwa9/Financial-and-Data-Analysis/blob/main/Security%20and%20Portfolio%20Performance%20Analysis%20.pdf)
 The objective of this article is to present essential concepts in security analysis and portfolio selection. We have conducted an analysis of two investment portfolios: one consisting of technology firms and the other composed of health firms. By applying the Markowitz optimization model, we have identified the optimal portfolio for each category. Additionally, we have addressed the challenges associated with comparing portfolios using historical and expected returns, and have introduced more robust measures for portfolio evaluation and selection.
