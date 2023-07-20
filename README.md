@@ -6,8 +6,6 @@ I am continuously updating and enhancing the content with new projects and impro
 
 ### How to use
 Click on the title of the project you selected and you will be directed to a new page. If the file is in xls(x) format, click on view raw in the prompted page or on downnload raw file to open. If the file is in pdf, Github will display it directly.
-**Important: Excel file will ask you to enter a PW but please ignore it and click on read-only.**
-
 
 ## [NonameCo FPA & VALUATION (xlsx)]( https://github.com/eliediwa9/Financial-Planning-and-Analysis/blob/main/NoNameCo%20FPA%20%26%20valuation.xlsx)
 - Briefings: analysis of three investments opportunity: (1) Investment in a TV show porgram that will increase sales, (2) Sell additional shares to an Investment Bank or (3) Acquire Target co. The firm wants to choose the investment that will lower its leverage and times earned ration by 2012 without arming the interest of existing shareholders.
@@ -25,19 +23,32 @@ Click on the title of the project you selected and you will be directed to a new
 
 
 ## [Security and Portfolio Performance Analysis (pdf)](https://github.com/eliediwa9/Financial-and-Data-Analysis/blob/main/Security%20and%20Portfolio%20Performance%20Analysis%20.pdf)
-The objective of this article is to present essential concepts in security analysis and portfolio selection. We have conducted an analysis of two investment portfolios: one consisting of technology firms and the other composed of health firms. By applying the Markowitz optimization model, we have identified the optimal portfolio for each category. Additionally, we have addressed the challenges associated with comparing portfolios using historical and expected returns, and have introduced more robust measures for portfolio evaluation and selection.
+- Briefings: analysis of equity securities for tech and health-sectors firms and their respective portfolios, followed by a markowitz optimization to find the optimal portfolio for each sector. Last, a performance analysis to select the best performing portfolio.
+- Key skills: stock analysis, equity portfolio analysis, equity portfolio management, advanced Python programming language
+
 
 ## [Analyse de la Performance des Titres et des Portefeuilles(pdf)](https://github.com/eliediwa9/Financial-and-Data-Analysis/blob/main/Analyse%20de%20la%20Performance%20des%20Titres%20et%20des%20Portefeuilles.pdf)
-L'objectif de cet article est de présenter les concepts essentiels de l'analyse des valeurs mobilières et de la sélection de portefeuille. Nous avons réalisé une analyse de deux portefeuilles d'investissement : l'un composé d'entreprises technologiques et l'autre composé d'entreprises de santé. En appliquant le modèle d'optimisation de Markowitz, nous avons identifié le portefeuille optimal pour chaque catégorie. De plus, nous avons abordé les défis liés à la comparaison des portefeuilles en utilisant les rendements historiques et attendus, et avons présenté des mesures plus robustes pour l'évaluation et la sélection des portefeuilles.
+- Briefings: analyse de titres de participation pour des entreprises des secteurs technologique et de la santé, ainsi que leurs portefeuilles respectifs. J'effectue ensuite une optimisation de Markowitz pour trouver le portefeuille optimal pour chaque secteur. Enfin, une analyse de performance est réalisée pour sélectionner le portefeuille le plus performant.
+- Compétences clés : analyse d'actions, analyse de portefeuille d'actions, gestion de portefeuille d'actions, programmation avancée en langage Python. 
+
 
 ## [Credit analysis: Part 1. Exploratory data analysis (pdf)](https://github.com/eliediwa9/Financial-and-Data-Analysis/blob/main/Credit%20Analysis%20Part%201.pdf)
-This case is about analyzing the credit profile of a pool of customers that applied for a bank loan. The management of the bank asked me as their credit (data) analyst to review the risk profile of loan applicants and come up with a model that they can use later on to decide on whether to give a loan or not. In part 1, I start with familiarizing myself with the data by exploring and uncovering trends and relationships that exist among them.
+- Briefings: exploring a dataset of loan applicants from a bank to uncover trends and relationships that will aid the development of a model for credit risk.
+- Key skills: data analysis, data visualization, advanced Python programming
+
 
 ## [Credit analysis : Part 2. Testing for the difference (pdf)](https://github.com/eliediwa9/Financial-and-Data-Analysis/blob/main/Credit%20Analysis%20Part%202.pdf)
-In Part 2, I seek evidence for the differences observed through visualization in Part 1. Using statistical tests such as two sample Z test, annova, chi-square among others. This further paves our way to the construction of a prediction models.
+- Briefings: testing for the difference observed during the preceding exploratory data analysis, making a further steps towards building the credit risk model.
+- Key skills: statistical testing, data analysis, data visualization, advanced Python programming
 
-## [Credit analysis : Part 3. Modelling (pdf)](https://github.com/eliediwa9/Financial-and-Data-Analysis/blob/main/Credit%20Analysis%20Part%203.pdf)
-In Part 3, we attempt to buit a first credit risk model using logistic regression. We find that property value, loan amount and loan term are consistently significant in all models obtained from backward elimination. This suggests that these variables better explain the change in default likelihood among our customers than any other variable. Nonetheless, the model has a relatively low accuracy rate of about 80%. 
+
+## [Credit analysis : Part 3. Credit Risk Modelling (pdf)](https://github.com/eliediwa9/Financial-and-Data-Analysis/blob/main/Credit%20Analysis%20Part%203.pdf)
+- Briefings: proposing the first credit risk model based on a logit analysis.
+- Key skills: data science, data analysis, data visualization, advanced Python programming
+- *part 4 comming soon*
+
 
 ## [Probability Distribution and Mean Testing (pdf)](https://github.com/eliediwa9/Financial-and-Data-Analysis/blob/main/Probability%20Distribution%20and%20Statistical%20Testing%20.pdf)
-In this article, I explain the concepts of probability distribution and statistical testing for the mean of the population in very simple terms. In the process, I introduce terminologies such as mean, variance, standard deviation, standard errors, distribution, probability, sampling distribution of sample means, central limit theorem, Z test among others in a story-like manner to help readers connect the dots between them. 
+- Briefings: free- style article explaining fundamental statisitical concepts like probability distribtuion and test for difference in means.
+- Key skills: statistics, data analysis
+
