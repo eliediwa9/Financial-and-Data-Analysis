@@ -1,6 +1,8 @@
 # Financial and Data Analysis
 
-Welcome! On this page, I showcase my knowledge and analytical skills using tools such as Excel, R and Python. You will find a range of projects ranging from finance to data analysis. A brief description is provided for each project below to help you decide. I regularly publish new projects or improve existing ones to demonstrate my mastery of knowledges & concepts pertaining to finance, accounting and data analysis. I believe that this not only improve transparency during the recruitment process but also shows that I am an autonomous, proactive, result-oriented and determined individual who consistently seeks self-improvement and growth. 
+Welcome to my page! Here, I demonstrate my expertise and analytical skills through various projects utilizing powerful tools like Excel, R, and Python. These projects encompass a diverse range of topics, from finance to data analysis. Each project is accompanied by a concise description to aid in your selection process.
+
+I am continuously updating and enhancing the content with new projects and improvements to showcase my mastery of knowledge and concepts related to finance, accounting, and data analysis. Through this platform, I aim to bring transparency to the recruitment process and highlight my qualities as an autonomous, proactive, result-oriented, and determined individual. My dedication to consistent self-improvement and growth is reflected in the work presented here.
 
 ### How to use
 Click on the title of the project you selected and you will be directed to a new page. If the file is in xls(x) format, click on view raw in the prompted page or on downnload raw file to open. If the file is in pdf, Github will display it directly.
@@ -8,15 +10,19 @@ Click on the title of the project you selected and you will be directed to a new
 
 
 ## [NonameCo FPA & VALUATION (xlsx)]( https://github.com/eliediwa9/Financial-Planning-and-Analysis/blob/main/NoNameCo%20FPA%20%26%20valuation.xlsx)
-Fanancial planning and analysis, including investment analysis and valuation. Noname co is facing difficulties to extend its credit line. The bank requires the firm to lower its leverage and times earned ratio by year 2012 or otherwise it will not extend its credit. Hence, Noname is considering three alternatives:(1) Investment in a TV show porgram that will increase sales, (2) Sell additional shares to an Investment Bank or (3) Acquire Target co. 
+- Briefings: analysis of three investments opportunity: (1) Investment in a TV show porgram that will increase sales, (2) Sell additional shares to an Investment Bank or (3) Acquire Target co. The firm wants to choose the investment that will lower its leverage and times earned ration by 2012 without arming the interest of existing shareholders.
+- Key skills: Investment project analysis, valuation, financial statements analysis, financial modeling
 
 
 ## [HasNameCo MASTER BUDGET(xlsx)](https://github.com/eliediwa9/Financial-Planning-and-Analysis/blob/main/HasNameCo%20Master-Plan.xlsx)
-Operational budgeting (master budget) of Hasname co activities. The firm would like to budget its operations for the next six months. As a financial controller, my goal is to construct a complete master budget to help the top management make informed decisions.
+- Briefings: master budget of  for the next 6 months, including sales, raw material, direct labor, finished goods and S&GA, and ex-post variance analysis.
+- Key skills: Budgeting & planning, variance analysis, financial modeling
 
 
 ## [XYZ firm financial data analysis (xlsx)](https://github.com/eliediwa9/Financial-Planning-and-Analysis/blob/main/XYZ%20Financial%20data%20analysis.xlsx)
-Business Analysis for XYZ firm which has about 10 lines of product and is present in multiple country. The management would like to know how profitable each line of product is in each country, each month and each year. Hence, my task is to break down product performance into several subgroups to be able to answer these strategic questions.
+- Briefings: analysis of sales data to examine performance by country, month and year and to uncover trends.
+- Key skills: business analysis, advanced excel functions (index-match, pivot table)
+
 
 ## [Security and Portfolio Performance Analysis (pdf)](https://github.com/eliediwa9/Financial-and-Data-Analysis/blob/main/Security%20and%20Portfolio%20Performance%20Analysis%20.pdf)
 The objective of this article is to present essential concepts in security analysis and portfolio selection. We have conducted an analysis of two investment portfolios: one consisting of technology firms and the other composed of health firms. By applying the Markowitz optimization model, we have identified the optimal portfolio for each category. Additionally, we have addressed the challenges associated with comparing portfolios using historical and expected returns, and have introduced more robust measures for portfolio evaluation and selection.
