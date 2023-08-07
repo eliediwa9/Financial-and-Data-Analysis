@@ -13,7 +13,7 @@ Click on the title of the project you selected and you will be directed to a new
 
 
 ## [HasNameCo MASTER BUDGET(xlsx)](https://github.com/eliediwa9/Financial-Planning-and-Analysis/blob/main/HasNameCo%20Master-Plan.xlsx)
-- Briefings: master budget of  for the next 6 months, including sales, raw material, direct labor, finished goods and S&GA, and ex-post variance analysis.
+- Briefings: master budget for the next 6 months, including sales, raw material, direct labor, finished goods and S&GA, and ex-post variance analysis.
 - Key skills: Budgeting & planning, variance analysis, financial modeling
 
 
