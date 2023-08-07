@@ -8,7 +8,7 @@ I am continuously updating and enhancing the content with new projects and impro
 Click on the title of the project you selected and you will be directed to a new page. If the file is in xls(x) format, click on view raw in the prompted page or on downnload raw file to open. If the file is in pdf, Github will display it directly.
 
 ## [NonameCo FPA & VALUATION (xlsx)]( https://github.com/eliediwa9/Financial-Planning-and-Analysis/blob/main/NoNameCo%20FPA%20%26%20valuation.xlsx)
-- Briefings: analysis of three investments opportunity: (1) Investment in a TV show porgram that will increase sales, (2) Sell additional shares to an Investment Bank or (3) Acquire Target co. The firm wants to choose the investment that will lower its leverage and times earned ration by 2012 without arming the interest of existing shareholders.
+- Briefings: analysis of three investments opportunity: (1) Investment in a TV show porgram that will increase sales, (2) Sell additional shares to an Investment Bank or (3) Acquire Target co. The firm wants to choose the investment that will lower its leverage and times earned ration by 2012 without harming the interest of existing shareholders.
 - Key skills: Investment project analysis, valuation, financial statements analysis, financial modeling
 
 
