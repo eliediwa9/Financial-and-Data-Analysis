@@ -1,19 +1,18 @@
-# Financial and Data Analysis
+# Finance, Accounting and Data Analysis 
+This reposistory contains mini projects that aims to demonstrate my understanding of accounting, finance and data analysis. You are welcome to consult the files attached. Beware that certain files may contain macros!
 
-Welcome to my page! Here, I demonstrate my expertise and analytical skills through various projects utilizing powerful tools like Excel, R, and Python. These projects encompass a diverse range of topics, from finance to data analysis. Each project is accompanied by a concise description to aid in your selection process.
-
-I am continuously updating and enhancing the content with new projects and improvements to showcase my mastery of knowledge and concepts related to finance, accounting, and data analysis. Through this platform, I aim to bring transparency to the recruitment process and highlight my qualities as an autonomous, proactive, result-oriented, and determined individual. My dedication to consistent self-improvement and growth is reflected in the work presented here.
+Latest update: June, 1 2024
 
 ### How to use
-Click on the title of the project you selected and you will be directed to a new page. If the file is in xls(x) format, click on view raw in the prompted page or on downnload raw file to open. If the file is in pdf, Github will display it directly.
+Thanks for stopping by! If this is your first time on Github, I am more than happy to help you get around here. To open a project, click on the title and then click on view raw or download.
 
-## [NonameCo FPA & VALUATION (xlsx)]( https://github.com/eliediwa9/Financial-Planning-and-Analysis/blob/main/NoNameCo%20FPA%20%26%20valuation.xlsx)
-- Briefings: analysis of three investments opportunity: (1) Investment in a TV show porgram that will increase sales, (2) Sell additional shares to an Investment Bank or (3) Acquire Target co. The firm wants to choose the investment that will lower its leverage and times earned ration by 2012 without arming the interest of existing shareholders.
-- Key skills: Investment project analysis, valuation, financial statements analysis, financial modeling
 
+## [1. Financial Budgeting and variance analysis]( https://github.com/eliediwa9/Financial-Planning-and-Analysis/blob/main/NoNameCo%20FPA%20%26%20valuation.xlsx)
+- A practical example of a mini master budget that includes Sales budget, Production budget, Manafucaturing (Raw Material, Direct Labor and Overhead cost) budget, COGS (SFG and FG cost) budget, OPEX budget and Pro format Statements.
+- A basic illustration of variance analysis.
 
 ## [HasNameCo MASTER BUDGET(xlsx)](https://github.com/eliediwa9/Financial-Planning-and-Analysis/blob/main/HasNameCo%20Master-Plan.xlsx)
-- Briefings: master budget of  for the next 6 months, including sales, raw material, direct labor, finished goods and S&GA, and ex-post variance analysis.
+- Briefings: master budget for the next 6 months, including sales, raw material, direct labor, finished goods and S&GA, and ex-post variance analysis.
 - Key skills: Budgeting & planning, variance analysis, financial modeling
 
 
