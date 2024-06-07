@@ -8,12 +8,12 @@ Thanks for stopping by! If this is your first time on Github, I am more than hap
 
 
 ## [1. Financial Budgeting and variance analysis](https://github.com/eliediwa9/Financial-and-Data-Analysis/blob/4bd1030319769cd9bd183681e4bbab66dff704db/1.Maser%20budget%20and%20variance%20analysis.xlsx)
-- A practical example of a mini master budget that includes Sales budget, Production budget, Manafucaturing (Raw Material, Direct Labor and Overhead cost) budget, COGS (SFG and FG cost) budget, OPEX budget and Pro format Statements.
+- A mini master budget that includes Sales budget, Production budget, Manafucaturing (Raw Material, Direct Labor and Overhead cost) budget, COGS (SFG and FG cost) budget, OPEX budget and Pro format Statements.
 - A basic illustration of variance analysis.
 
-## [HasNameCo MASTER BUDGET(xlsx)](https://github.com/eliediwa9/Financial-Planning-and-Analysis/blob/main/HasNameCo%20Master-Plan.xlsx)
-- Briefings: master budget for the next 6 months, including sales, raw material, direct labor, finished goods and S&GA, and ex-post variance analysis.
-- Key skills: Budgeting & planning, variance analysis, financial modeling
+## [2. Financial analysis & planning](https://github.com/eliediwa9/Financial-and-Data-Analysis/blob/bdca449423640c96ad723cc8cc36ceaada3d6ee7/2.Financial%20planning%20%26%20analysis.xlsx)
+- Financial analysis of 3 projects. This includes operation management analysis, investment management analysis and financial management analysis.
+- An illustration of project selection based on management goal.
 
 
 ## [XYZ firm financial data analysis (xlsx)](https://github.com/eliediwa9/Financial-Planning-and-Analysis/blob/main/XYZ%20Financial%20data%20analysis.xlsx)
