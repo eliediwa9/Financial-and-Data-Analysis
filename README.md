@@ -1,10 +1,8 @@
-# Financial and Data Analysis
-
-Welcome to my page! Here, I demonstrate my expertise and analytical skills through various projects utilizing powerful tools like Excel, R, and Python. These projects encompass a diverse range of topics, from finance to data analysis. Each project is accompanied by a concise description to aid in your selection process.
-
-I am continuously updating and enhancing the content with new projects and improvements to showcase my mastery of knowledge and concepts related to finance, accounting, and data analysis. Through this platform, I aim to bring transparency to the recruitment process and highlight my qualities as an autonomous, proactive, result-oriented, and determined individual. My dedication to consistent self-improvement and growth is reflected in the work presented here.
+# Finance, Accounting and Data Analysis 
+This reposistory contains mini projects that aims to demonstrate my understanding of accounting, finance and data analysis. You are welcome to consult the files attached! Beware that certain files may contain macros.
 
 ### How to use
+Thanks for stopping by! If this is your first time on Github, I am more than happy to help you get around here. 
 Click on the title of the project you selected and you will be directed to a new page. If the file is in xls(x) format, click on view raw in the prompted page or on downnload raw file to open. If the file is in pdf, Github will display it directly.
 
 ## [NonameCo FPA & VALUATION (xlsx)]( https://github.com/eliediwa9/Financial-Planning-and-Analysis/blob/main/NoNameCo%20FPA%20%26%20valuation.xlsx)
