@@ -24,4 +24,4 @@ Thanks for stopping by! If this is your first time on Github, I am more than hap
 - Transaction recording, general ledger holding, trial balance equilibrium and financial statements reporting.
 - Advanced modelling in excel using advanced formulas i.e., index-match, sumifs and vba procedures for advanced macros.
 
-  ### Data Analytics Projects will be updated once confidentiality issues are resolved.
+#### Data Analytics Projects will be updated once confidentiality issues are resolved and there is no risks of leakage.
