@@ -1,5 +1,5 @@
 # Finance, Accounting and Data Analysis 
-This reposistory contains mini projects that aims to demonstrate my understanding of accounting, finance and data analysis. You are welcome to consult the files attached. Beware that certain files may contain macros!
+This reposistory contains mini projects that aim to demonstrate my understanding and practical experience in accounting, finance and data analysis. You are welcome to consult the files attached. Beware that certain files may contain macros!
 
 Latest update: June, 1 2024
 
@@ -18,7 +18,7 @@ Thanks for stopping by! If this is your first time on Github, I am more than hap
 
 ## [3. financial data analysis ](https://github.com/eliediwa9/Financial-and-Data-Analysis/blob/3bd92432e5a1c7d5ecd474b513c3b5349596f05c/3.Financial%20data%20analysis.xlsx)
 - Basic analysis of sales data in excel.
-
+- Note: Power BI is more suitable for data analysis, especially when dealing with large amount of data.
 
 ## [4. General Accounting Management](https://github.com/eliediwa9/Financial-and-Data-Analysis/blob/c72f2b9541b3972c7cd89851c6296d2e7220befb/4.%20General%20Accounting%20Tool.xlsm)
 - Transaction recording, general ledger holding, trial balance equilibrium and financial statements reporting.
