@@ -1,5 +1,5 @@
 # Finance, Accounting and Data Analysis 
-This reposistory contains mini projects that aim to demonstrate my understanding and practical experience in accounting, finance and data analysis. You are welcome to consult the files attached. Beware that certain files may contain macros!
+This reposistory contains mini projects that aim to demonstrate my understanding and practical experience in accounting, finance and data analysis. Each Project has a small description that explains its objectives. You are welcome to consult the files attached. Beware that certain files may contain macros!
 
 Latest update: June, 1 2024
 
