@@ -7,7 +7,7 @@ Latest update: June, 10 2024
 Thanks for stopping by! If this is your first time on Github, I am more than happy to help you get around here. To open a project, simply click on the title and then click on view raw or download.
 
 
-## [1. Budgeting and variance analysis](https://github.com/eliediwa9/Financial-and-Data-Analysis/blob/4bd1030319769cd9bd183681e4bbab66dff704db/1.Maser%20budget%20and%20variance%20analysis.xlsx) - Work Project
+## [1. Budgeting and variance analysis](https://github.com/eliediwa9/Financial-and-Data-Analysis/blob/4bd1030319769cd9bd183681e4bbab66dff704db/1.Maser%20budget%20and%20variance%20analysis.xlsx) - Internship Project
 - Task: to budget the activity of company over the next 6 months. Then, compare the budget with actuals after six months.
 - Goal: to establish a complete master budget that contains Sales budget, Production budget, Manufacturing (Raw Material, Direct Labor and Overhead cost) budget, COGS (SFG and FG cost) budget, OPEX budget and Pro format Statements. Then, compare budget to actual.
 - Skills & competences: management accounting, budgeting and variance analysis, pro-format financial reports, financial analysis, advanced excel ...
@@ -23,7 +23,7 @@ Thanks for stopping by! If this is your first time on Github, I am more than hap
 - Goal: to create an excel tool that will take transaction entries and deliver financial statements for reporting with minimal hassles for reconciliation and equilibration tasks.
 - Skills & Competences: general accounting, financial accounting & reporting, advanced excel ...
 
-## [4. Business intelligence report](https://github.com/eliediwa9/Financial-and-Data-Analysis/blob/ecee4693d0a954ae5cb6d2ff2e9febec7eb5e7be/5.Business%20Intelligence.pdf) - Internship Project
+## [4. Business intelligence report](https://github.com/eliediwa9/Financial-and-Data-Analysis/blob/ecee4693d0a954ae5cb6d2ff2e9febec7eb5e7be/5.Business%20Intelligence.pdf) - Work Project
 - Task: to analyze sales data across platforms 
 - Goal: to keep track of sales trend/growth by product by month and by year
 - Skills: data analysis with power bi, python
