@@ -1,7 +1,7 @@
 # Finance, Accounting and Data Analysis 
 Here you will projects that I worked on during my work, internship and/or courses. I use this as a mean to demonstrate my practical understanding of accounting and finance and my technical skills in excel, power bi and python. I hope you find it helpful.
 
-Latest update: June, 10 2024
+Latest update: June, 12 2024
 
 ### How to use
 Thanks for stopping by! If this is your first time on Github, I am more than happy to help you get around here. To open a project, simply click on the title and then click on view raw or download.
