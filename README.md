@@ -8,8 +8,7 @@ Thanks for stopping by! If this is your first time on Github, I am more than hap
 
 
 ## [1. Budgeting and variance analysis](https://github.com/eliediwa9/Financial-and-Data-Analysis/blob/4bd1030319769cd9bd183681e4bbab66dff704db/1.Maser%20budget%20and%20variance%20analysis.xlsx) - Internship Project
-- Task: to budget the activity of company over the next 6 months. Then, compare the budget with actuals after six months.
-- Goal: to establish a complete master budget that contains Sales budget, Production budget, Manufacturing (Raw Material, Direct Labor and Overhead cost) budget, COGS (SFG and FG cost) budget, OPEX budget and Pro format Statements. Then, compare budget to actual.
+- [Read Summary report](https://github.com/eliediwa9/Financial-and-Data-Analysis/blob/c2e74bb4d30017331afb25def72f885312b670a7/1.Budgeting%20analysis.pdf) 
 - Skills & competences: management accounting, budgeting and variance analysis, pro-format financial reports, financial analysis, advanced excel ...
 
 
