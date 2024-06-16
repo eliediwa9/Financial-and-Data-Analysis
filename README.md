@@ -14,6 +14,7 @@ Thanks for stopping by! If this is your first time on Github, I am more than hap
 
 
 ## [2. Capital Investment Analysis & Valuation](https://github.com/eliediwa9/Financial-and-Data-Analysis/blob/bdca449423640c96ad723cc8cc36ceaada3d6ee7/2.Financial%20planning%20%26%20analysis.xlsx) - Academic Project
+- [Read the summary](https://github.com/eliediwa9/Financial-and-Data-Analysis/blob/3afadaded2d5214c63793955312d1d5d53c9481c/2.Capital%20Investment%20Analysis%20%26%20Valuation.pdf)
 - Task: to analyze 3 capital investment options and select the one that maximize shareholders' value.
 - Goal: to forecast financial statements and investigate the impact of each single project on the company's operation, investment and financial management and on its business value. Then, chose the project which maximizes the value. 
 - Skills & competences: financial modelling, valuation, business analysis, financial statement analysis, advanced excel ...
