@@ -13,7 +13,7 @@ Thanks for stopping by! If this is your first time on Github, I am more than hap
 - Skills & competences: management accounting, budgeting and variance analysis, pro-format financial reports, financial analysis, advanced excel ...
 
 
-## [2. Financial analysis & planning](https://github.com/eliediwa9/Financial-and-Data-Analysis/blob/bdca449423640c96ad723cc8cc36ceaada3d6ee7/2.Financial%20planning%20%26%20analysis.xlsx) - Academic Project
+## [2. Capital Investment Analysis & Valuation](https://github.com/eliediwa9/Financial-and-Data-Analysis/blob/bdca449423640c96ad723cc8cc36ceaada3d6ee7/2.Financial%20planning%20%26%20analysis.xlsx) - Academic Project
 - Task: to analyze 3 capital investment options and select the one that maximize shareholders' value.
 - Goal: to forecast financial statements and investigate the impact of each single project on the company's operation, investment and financial management and on its business value. Then, chose the project which maximizes the value. 
 - Skills & competences: financial modelling, valuation, business analysis, financial statement analysis, advanced excel ...
