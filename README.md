@@ -14,14 +14,13 @@ Thanks for stopping by! If this is your first time on Github, I am more than hap
 
 
 ## [2. Capital Investment Analysis & Valuation](https://github.com/eliediwa9/Financial-and-Data-Analysis/blob/bdca449423640c96ad723cc8cc36ceaada3d6ee7/2.Financial%20planning%20%26%20analysis.xlsx) - Academic Project
-- [Read the summary](https://github.com/eliediwa9/Financial-and-Data-Analysis/blob/3afadaded2d5214c63793955312d1d5d53c9481c/2.Capital%20Investment%20Analysis%20%26%20Valuation.pdf)
-- Task: to analyze 3 capital investment options and select the one that maximize shareholders' value.
-- Goal: to forecast financial statements and investigate the impact of each single project on the company's operation, investment and financial management and on its business value. Then, chose the project which maximizes the value. 
-- Skills & competences: financial modelling, valuation, business analysis, financial statement analysis, advanced excel ...
+- [Read the summary report](https://github.com/eliediwa9/Financial-and-Data-Analysis/blob/3afadaded2d5214c63793955312d1d5d53c9481c/2.Capital%20Investment%20Analysis%20%26%20Valuation.pdf)
+- Skills & competences: financial modelling, valuation, capital project analysis, business analysis, financial statement analysis, advanced excel ...
 
 ## [3. Equity Research Analysis & Valuation](https://github.com/eliediwa9/Financial-and-Data-Analysis/blob/b46cbe9c1d90c4dd95578065c4e538a383c70c2f/4.Equity%20Research%20Analysis.xlsx) - Internship Project
+- [Read summary report](https://github.com/eliediwa9/Financial-and-Data-Analysis/blob/ef8bb9125c3d49aa586fa34b0205be2d9a2dfdc3/4.Equity%20Research%20Analysis.pdf)
 - Task: to analyze the performance of a set of securities and building an optimal portfolio
-- 
+- Skills & Competences: market analysis, equity valuation, portfolio analysis, portfolio optimazation, financial statement analysis ...
 
 ## [4. General Accounting Management](https://github.com/eliediwa9/Financial-and-Data-Analysis/blob/c72f2b9541b3972c7cd89851c6296d2e7220befb/4.%20General%20Accounting%20Tool.xlsm) - Internship Project
 - Task: to build an accounting tool that facilitate transactions recording and the elaboration of financials statements
