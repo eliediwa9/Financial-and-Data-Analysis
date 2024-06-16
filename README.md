@@ -7,8 +7,8 @@ Latest update: June, 12 2024
 Thanks for stopping by! If this is your first time on Github, I am more than happy to help you get around here. To open a project, simply click on the title and then click on view raw or download.
 
 
-## [1. Budgeting and variance analysis](https://github.com/eliediwa9/Financial-and-Data-Analysis/blob/4bd1030319769cd9bd183681e4bbab66dff704db/1.Maser%20budget%20and%20variance%20analysis.xlsx) - Internship Project
-- [Read Summary report](https://github.com/eliediwa9/Financial-and-Data-Analysis/blob/c2e74bb4d30017331afb25def72f885312b670a7/1.Budgeting%20analysis.pdf) 
+## [1. Budgeting analysis](https://github.com/eliediwa9/Financial-and-Data-Analysis/blob/212379f320c99f78833ec5f524ee394f9389302b/1.Budgeting%20analysis.pdf) - Internship Project
+- [Read Summary report](https://github.com/eliediwa9/Financial-and-Data-Analysis/blob/212379f320c99f78833ec5f524ee394f9389302b/1.Budgeting%20analysis.pdf) 
 - Skills & competences: management accounting, budgeting and variance analysis, pro-format financial reports, financial analysis, advanced excel ...
 
 
