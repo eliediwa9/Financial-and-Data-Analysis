@@ -8,7 +8,7 @@ Thanks for stopping by! If this is your first time on Github, I am more than hap
 
 
 ## [1. Budgeting analysis](https://github.com/eliediwa9/Financial-and-Data-Analysis/blob/a7a3ff9c1fc493a01c6c00fd085886d5ad401069/1.Budgeting%20analysis.xlsx) - Internship Project
-- [Read Summary report](https://github.com/eliediwa9/Financial-and-Data-Analysis/blob/212379f320c99f78833ec5f524ee394f9389302b/1.Budgeting%20analysis.pdf) 
+- [Read Summary report](https://github.com/eliediwa9/Financial-and-Data-Analysis/blob/b393f3ad26de0f5c613bdc02ca8cc253ef82b41d/1.Budgeting%20analysis.pdf) 
 - Skills & competences: management accounting, budgeting and variance analysis, pro-format financial reports, financial analysis, advanced excel ...
 
 
