@@ -13,7 +13,7 @@ Thanks for stopping by! If this is your first time on Github, I am more than hap
 
 
 ## [2. Capital Investment Analysis & Valuation](https://github.com/eliediwa9/Financial-and-Data-Analysis/blob/bdca449423640c96ad723cc8cc36ceaada3d6ee7/2.Financial%20planning%20%26%20analysis.xlsx) - Academic Project
-- [Read the summary report](https://github.com/eliediwa9/Financial-and-Data-Analysis/blob/3afadaded2d5214c63793955312d1d5d53c9481c/2.Capital%20Investment%20Analysis%20%26%20Valuation.pdf)
+- [Read the summary report](https://github.com/eliediwa9/Financial-and-Data-Analysis/blob/8d683d46afa4a41d454dbfcfeb93addea15a2c43/2.Capital%20Investment%20Analysis%20%26%20Valuation.pdf)
 - Skills & competences: financial modelling, valuation, capital project analysis, business analysis, financial statement analysis, advanced excel ...
 
 ## [3. Equity Research Analysis & Valuation](https://github.com/eliediwa9/Financial-and-Data-Analysis/blob/b46cbe9c1d90c4dd95578065c4e538a383c70c2f/4.Equity%20Research%20Analysis.xlsx) - Internship Project
