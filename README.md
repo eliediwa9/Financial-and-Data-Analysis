@@ -7,9 +7,8 @@ Latest update: June, 12 2024
 Thanks for stopping by! If this is your first time on Github, I am more than happy to help you get around here. To open a project, simply click on the title and then click on view raw or download.
 
 
-## [1. Budgeting and variance analysis](https://github.com/eliediwa9/Financial-and-Data-Analysis/blob/4bd1030319769cd9bd183681e4bbab66dff704db/1.Maser%20budget%20and%20variance%20analysis.xlsx) - Internship Project
-- Task: to budget the activity of company over the next 6 months. Then, compare the budget with actuals after six months.
-- Goal: to establish a complete master budget that contains Sales budget, Production budget, Manufacturing (Raw Material, Direct Labor and Overhead cost) budget, COGS (SFG and FG cost) budget, OPEX budget and Pro format Statements. Then, compare budget to actual.
+## [1. Budgeting analysis](https://github.com/eliediwa9/Financial-and-Data-Analysis/blob/a7a3ff9c1fc493a01c6c00fd085886d5ad401069/1.Budgeting%20analysis.xlsx) - Internship Project
+- [Read Summary report](https://github.com/eliediwa9/Financial-and-Data-Analysis/blob/212379f320c99f78833ec5f524ee394f9389302b/1.Budgeting%20analysis.pdf) 
 - Skills & competences: management accounting, budgeting and variance analysis, pro-format financial reports, financial analysis, advanced excel ...
 
 
@@ -19,7 +18,6 @@ Thanks for stopping by! If this is your first time on Github, I am more than hap
 
 ## [3. Equity Research Analysis & Valuation](https://github.com/eliediwa9/Financial-and-Data-Analysis/blob/b46cbe9c1d90c4dd95578065c4e538a383c70c2f/4.Equity%20Research%20Analysis.xlsx) - Internship Project
 - [Read summary report](https://github.com/eliediwa9/Financial-and-Data-Analysis/blob/ef8bb9125c3d49aa586fa34b0205be2d9a2dfdc3/4.Equity%20Research%20Analysis.pdf)
-- Task: to analyze the performance of a set of securities and building an optimal portfolio
 - Skills & Competences: market analysis, equity valuation, portfolio analysis, portfolio optimazation, financial statement analysis ...
 
 ## [4. General Accounting Management](https://github.com/eliediwa9/Financial-and-Data-Analysis/blob/c72f2b9541b3972c7cd89851c6296d2e7220befb/4.%20General%20Accounting%20Tool.xlsm) - Internship Project
