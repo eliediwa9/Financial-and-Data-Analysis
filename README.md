@@ -17,7 +17,7 @@ Thanks for stopping by! If this is your first time on Github, I am more than hap
 - Skills & competences: financial modelling, valuation, capital project analysis, business analysis, financial statement analysis, advanced excel ...
 
 ## [3. Equity Research Analysis & Valuation](https://github.com/eliediwa9/Financial-and-Data-Analysis/blob/b46cbe9c1d90c4dd95578065c4e538a383c70c2f/4.Equity%20Research%20Analysis.xlsx) - Internship Project
-- [Read summary report](https://github.com/eliediwa9/Financial-and-Data-Analysis/blob/ef8bb9125c3d49aa586fa34b0205be2d9a2dfdc3/4.Equity%20Research%20Analysis.pdf)
+- [Read summary report](https://github.com/eliediwa9/Financial-and-Data-Analysis/blob/c7f211b802eeb6fd7094d2c269ecfecb5ac8d9cd/4.Equity%20Research%20Analysis.pdf)
 - Skills & Competences: market analysis, equity valuation, portfolio analysis, portfolio optimazation, financial statement analysis ...
 
 ## [4. General Accounting Management](https://github.com/eliediwa9/Financial-and-Data-Analysis/blob/c72f2b9541b3972c7cd89851c6296d2e7220befb/4.%20General%20Accounting%20Tool.xlsm) - Internship Project
