@@ -25,9 +25,8 @@ Thanks for stopping by! If this is your first time on Github, I am more than hap
 - Goal: to create an excel tool that will take transaction entries and deliver financial statements for reporting with minimal hassles for reconciliation and equilibration tasks.
 - Skills & Competences: general accounting, financial accounting & reporting, advanced excel ...
 
-## [5. Business intelligence report](https://github.com/eliediwa9/Financial-and-Data-Analysis/blob/ecee4693d0a954ae5cb6d2ff2e9febec7eb5e7be/5.Business%20Intelligence.pdf) - Work Project
-- Task: to analyze sales data across platforms 
-- Goal: to keep track of sales trend/growth by product by month and by year
+## [5. Business intelligence report](https://github.com/eliediwa9/Financial-and-Data-Analysis/blob/dcc5695cda2cba68036c0bf9bec0de3c438aa0cc/5.Business%20Intelligence.pdf) - Work Project
+- Task: to analyze sales data 
+- Goal: to keep track of monthly sales trend/growth by product and by channel
 - Skills: data analysis with power bi, python
-- Disclaimer: the data used has been modified to preserve confidential or sensitive information
   
